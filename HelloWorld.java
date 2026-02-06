@@ -5,6 +5,6 @@ public class HelloWorld {
         System.out.println("Hello, Sharwari!");
         System.out.println("Hello, Soham!");
         System.out.println("Hello, Varad!");
-        System.out.println("Hello, Vaibhavee❤️!");
+        System.out.println("Hello, Vaibhavee <3!");
     }
 }
